@@ -1,16 +1,16 @@
 # travel2
 
-## Project setup
+## 项目安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
